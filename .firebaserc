@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "doctors-portal-6fe98"
-  }
+    "default": "doctors-portal-5a64c",
+    "doctor-working": "doctors-portal-5a64c"
+  },
+  "targets": {},
+  "etags": {}
 }
